@@ -1,0 +1,25 @@
+{
+    "created-at": { "$date": "2022-01-31T10:47:31.248Z" },
+    "title": "February Challange",
+    "status" : "active",
+    "description": "This is a description",
+    "files" : "https://www.w3schools.com/python/python_mongodb_insert.asp",
+    "problems" : {
+        "p1" : {
+            "title" : "Problem 1",
+            "description" : "This is a description",
+            "score" : 200,
+            "flag" : "njack{discord-bot-challange}",
+            "top-hackers" : [],
+            "created-at" : { "$date" : "2022-01-31T10:47:31.248Z" }
+        },
+        "p2" : {
+            "title" : "Problem 2",
+            "description" : "This is a description",
+            "score" : 200,
+            "flag" : "njack{discord-bot-challange2}",
+            "top-hackers" : [],
+            "created-at" : { "$date" : "2022-01-31T10:47:31.248Z" }
+        }
+    }
+}
